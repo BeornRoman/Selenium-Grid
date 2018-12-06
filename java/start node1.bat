@@ -1,0 +1,1 @@
+PowerShell.exe -windowstyle hidden java -jar .\selenium-server-standalone-2.49.1.jar -role node -hub http://192.168.1.52:4444/grid/register -port 5551
